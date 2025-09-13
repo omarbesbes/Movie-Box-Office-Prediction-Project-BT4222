@@ -1,10 +1,18 @@
 # BT4222 Mining Web Data for Business Insights
 ## Movie Box Office Prediction Project
 
+<div align="center">
+  <img src="Images/NUS_logo_full-horizontal.jpg" alt="National University of Singapore" width="300"/>
+</div>
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-green.svg)
+
+</div>
 
 A comprehensive machine learning project developed for the **BT4222 Mining Web Data for Business Insights** course at the National University of Singapore (NUS). This project focuses on predicting movie box office performance using advanced web scraping techniques and machine learning models.
 
