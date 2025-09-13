@@ -1,0 +1,21 @@
+
+The folder "Data" contains all our scrapped and intermediary (after feature engineering) datasets.
+
+The folder "Preprocessing" contains all the scrapping, dataset building and initial data formatting scripts that we used. 
+These codes do some heavy scraping and require lots of time to execute and may even stop working mid-scraping because of 
+restrictions on the rates of requests made to the websites containing the informations we need (e.g wikipedia). 
+You can see the results of our scraping by examining the csv files we provided.
+
+
+Task 1: Opening Weekend Gross prediction
+
+The complete working code for this part can be found in the folder "Opening Weekend Gross prediction". 
+The notebook name is opening_weekend_gross_prediction.ipynb 
+
+
+Task 2: Time Series Gross Prediction
+
+The complete working code for this part can be found in the folder "Time Series Gross Prediction". 
+The notebook name is TimeSeriesMovieGrossPrediction.ipynb
+
+Good reading!
