@@ -266,10 +266,10 @@ def create_features(df):
 
 | Model | R² Score | RMSE (M$) | MAE (M$) | MAPE (%) |
 |-------|----------|-----------|----------|----------|
-| Ridge Regression | 0.72 | 8.5 | 5.2 | 35.2 |
+| Ridge Regression | 0.72 | **8.5** | **5.2** | **35.2** |
 | Random Forest | 0.78 | 7.8 | 4.9 | 32.1 |
 | XGBoost | 0.81 | 7.1 | 4.3 | 29.8 |
-| **LightGBM** | **0.83** | **6.8** | **4.1** | **28.5** |
+| **LightGBM** | **0.83** | 6.8 | 4.1 | 28.5 |
 
 ### Time Series Prediction Performance
 
